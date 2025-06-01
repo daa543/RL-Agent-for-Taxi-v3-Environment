@@ -6,6 +6,9 @@ Over time, the taxi gets smarter by exploring different moves and remembering wh
 
 # Tools I used:
 OpenAI Gym
+
 NumPy
+
 Matplotlib
+
 PyVirtualDisplay & Pygame
