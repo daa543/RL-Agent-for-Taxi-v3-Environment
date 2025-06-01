@@ -12,3 +12,8 @@ NumPy
 Matplotlib
 
 PyVirtualDisplay & Pygame
+
+# Output
+1. ![Image](https://github.com/user-attachments/assets/54b5650e-4b08-4f34-9159-adf41b5a941a)
+
+2. https://github.com/user-attachments/assets/fdb578a4-6624-4fbd-bdf4-530796b054e5
